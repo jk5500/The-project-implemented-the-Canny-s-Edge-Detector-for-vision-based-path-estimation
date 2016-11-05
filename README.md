@@ -1,2 +1,2 @@
-# canny-s-edge-detection-technique-for-video-lane-detection
-# it was the class homework for the digital image processing and computer vision
+# The project implemented the Canny's Edge Detector for vision based path estimation for autonomous
+navigation in real time application.
